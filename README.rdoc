@@ -1,5 +1,6 @@
+Making some changes to get this working with Morphues on Trial5 environment
 == README
-
+SOMETHING ELSE HERE??
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
